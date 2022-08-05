@@ -29,3 +29,5 @@ print('Group', 5, 'and their members', members_5)
 print('Group', 6, 'and their members', members_6)
 print('Group', 7, 'and their members', members_7)
 print('Group', 8, 'and their members', members_8)
+
+#version 1: this can still improve so I will upload the varations I come up with
